@@ -1,0 +1,17 @@
+﻿# Real Spring XD CSVs are NOT committed — see docs/DATA_MAPPING.md §1
+data/
+data/*.csv
+!data/README.md
+
+# Build artefacts
+target/
+*.class
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Local env
+.env
