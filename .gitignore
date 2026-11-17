@@ -12,6 +12,7 @@ target/
 *.iml
 .vscode/
 .DS_Store
+Thumbs.db
 
 # Local env
 .env
